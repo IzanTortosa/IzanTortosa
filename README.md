@@ -2,6 +2,9 @@
 
 > Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) | Apasionado por la tecnología y el desarrollo de software.
 
+<div align="center">
+  <img src="./foto.jpeg" alt="Texto alternativo" width="300" height="400">
+</div>
 
 <div align="center">
 
