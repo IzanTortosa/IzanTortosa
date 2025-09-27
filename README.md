@@ -11,7 +11,7 @@
 
 ---
 
-  ![Foto de perfil](./foto.jpeg)
+  
 
 ---
 
